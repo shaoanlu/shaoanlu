@@ -1,5 +1,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=shaoanlu&theme=holi-theme)](https://git.io/streak-stats)
 
+
+![](https://komarev.com/ghpvc/?username=shaoanlu)
+
 <!--
 **shaoanlu/shaoanlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
