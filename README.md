@@ -1,5 +1,5 @@
 ## 👋Hello, I'm Shao-An! 
----
+
 <a href="https://github.com/shaoanlu/shaoanlu/raw/main/assets/readme_photo.png"><img src="https://github.com/shaoanlu/shaoanlu/raw/main/assets/readme_photo.png" align="right" height="175" /></a>
 [![Twitter Badge](https://img.shields.io/badge/-@picofanta-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/picofanta "Find me on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/ShaoAn%20-Lu-0072b1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shaoan-lu/ "Connect on LinkedIn")
@@ -11,7 +11,7 @@
 - 🌱 Currently engaged in the exploration of **Software Architecture within Robotic Systems**.
 
 
-### :zap: Recent Activity
+### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#234](https://github.com/qpsolvers/qpsolvers/pull/234#issuecomment-1690296725) in [qpsolvers/qpsolvers](https://github.com/qpsolvers/qpsolvers)
 2. ❌ Closed PR [#3](https://github.com/shaoanlu/qpsolvers/pull/3) in [shaoanlu/qpsolvers](https://github.com/shaoanlu/qpsolvers)
@@ -20,7 +20,7 @@
 5. 💪 Opened PR [#6](https://github.com/shaoanlu/qpsolvers/pull/6) in [shaoanlu/qpsolvers](https://github.com/shaoanlu/qpsolvers)
 <!--END_SECTION:activity-->
 
-### 🏆 GitHub Profile Trophy
+### GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=shaoanlu&theme=nord&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
