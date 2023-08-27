@@ -1,4 +1,4 @@
-### 👋Hello, I'm Shao-An! 
+## 👋Hello, I'm Shao-An! 
 ---
 [![Twitter Badge](https://img.shields.io/badge/-@picofanta-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/picofanta "Find me on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/ShaoAn%20-Lu-0072b1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shaoan-lu/ "Connect on LinkedIn")
@@ -9,7 +9,7 @@
 - 🌱 Currently engaged in the study of **Software Architecture in Robitcs**.
 
 
-#### :zap: Recent Activity
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#234](https://github.com/qpsolvers/qpsolvers/pull/234#issuecomment-1690296725) in [qpsolvers/qpsolvers](https://github.com/qpsolvers/qpsolvers)
 2. ❌ Closed PR [#3](https://github.com/shaoanlu/qpsolvers/pull/3) in [shaoanlu/qpsolvers](https://github.com/shaoanlu/qpsolvers)
@@ -18,11 +18,11 @@
 5. 💪 Opened PR [#6](https://github.com/shaoanlu/qpsolvers/pull/6) in [shaoanlu/qpsolvers](https://github.com/shaoanlu/qpsolvers)
 <!--END_SECTION:activity-->
 
-#### 🏆 GitHub Profile Trophy
+### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=shaoanlu&theme=nord&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
-#### 🌠 GitHub Streak Stats
+### 🌠 GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=shaoanlu&theme=holi-theme)](https://git.io/streak-stats)
 -->
 
