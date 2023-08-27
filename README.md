@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/ShaoAn%20-Lu-0072b1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shaoan-lu/ "Connect on LinkedIn")
 [![Wordpress Badge](https://img.shields.io/badge/SALu-21759B?style=flat-square&logo=wordpress&logoColor=white)](shaoanlu.wordpress.com)
 
-- 🔭 Working as a **Control Engineer**.
+- 🔭 Working as a **Control Software Engineer**.
 - 🌏 Grew up in **Taiwan**, residing in the vibrant city of **Tokyo, Japan**.
 - ⭐ Interested in everything related to **Control Systems**, **Optimization**, and **Deep Generative Models**.
 - 🌱 Currently engaged in the exploration of **Software Architecture within Robotic Systems**.
