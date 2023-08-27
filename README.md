@@ -1,6 +1,6 @@
 ## 👋Hello, I'm Shao-An! 
 ---
-<a href="https://github.com/shaoanlu"><img src="https://github.com/shaoanlu/shaoanlu/blob/7712af665936a890454c04fab1af4f3dd3392af9/assets/readme_photo.png" align="right" height="175" /></a>
+<a href="https://github.com/shaoanlu/shaoanlu/raw/main/assets/readme_photo.png"><img src="https://github.com/shaoanlu/shaoanlu/raw/main/assets/readme_photo.png" align="right" height="175" /></a>
 [![Twitter Badge](https://img.shields.io/badge/-@picofanta-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/picofanta "Find me on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/ShaoAn%20-Lu-0072b1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shaoan-lu/ "Connect on LinkedIn")
 [![Wordpress Badge](https://img.shields.io/badge/SALu-21759B?style=flat-square&logo=wordpress&logoColor=white)](shaoanlu.wordpress.com)
