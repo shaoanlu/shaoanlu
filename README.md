@@ -21,8 +21,10 @@
 #### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=shaoanlu&theme=nord&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--
 #### 🌠 GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=shaoanlu&theme=holi-theme)](https://git.io/streak-stats)
+-->
 
 <!--
 **shaoanlu/shaoanlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
