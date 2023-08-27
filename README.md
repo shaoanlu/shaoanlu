@@ -7,7 +7,7 @@
 
 - 🔭 Working as a **Control Software Engineer**.
 - 🌏 Grew up in **Taiwan**, residing in the vibrant city of **Tokyo, Japan**.
-- ⭐ Interested in everything related to **Control Systems**, **Optimization**, and **Deep Generative Models**.
+- ⭐ Interested in **Control Systems**, **Optimization**, and **Deep Generative Models**.
 - 🌱 Currently engaged in the exploration of **Software Architecture within Robotic Systems**.
 
 
