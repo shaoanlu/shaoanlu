@@ -6,7 +6,7 @@
 - 🔭 I'm currently working as a **Control Engineer**.
 - 🌏 Located in the vibrant city of **Tokyo, Japan**.
 - ⭐ Interested in everything related to **Control Systems**, **Optimization**, and **Deep Generative Models**.
-- 🌱 Currently engaged in the study of **Software Architecture in Robitcs**.
+- 🌱 Currently engaged in the study of **Software Architecture in Robotics**.
 
 
 ### :zap: Recent Activity
