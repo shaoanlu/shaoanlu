@@ -1,3 +1,8 @@
+### 👋Hello, I'm Shao-An! 
+I'm a Control Engineer based in the vibrant city of Tokyo, Japan, deeply fascinated by the intersection of control systems, optimization, and machine learning. You'll find a blend of projects that reflect these interests — from model predictive controllers to generative models to experiments with neural network architectures and optimizers. 
+
+Feel free to check out my repositories and don't hesitate to reach out for collaborations or discussions. Happy coding!
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=shaoanlu&theme=holi-theme)](https://git.io/streak-stats)
 
 ### :zap: Recent Activity
