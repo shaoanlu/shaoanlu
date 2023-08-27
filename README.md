@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/ShaoAn%20-Lu-0072b1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shaoan-lu/ "Connect on LinkedIn")
 [![Wordpress Badge](https://img.shields.io/badge/SALu-21759B?style=flat-square&logo=wordpress&logoColor=white)](shaoanlu.wordpress.com)
 
-<a><img src="https://github.com/shaoanlu/shaoanlu/blob/a77b8290e3dbe828f53a9414462b375bd8bcc842/assets/readme_photo.png" align="right" height="224" /></a>
+<a><img src="https://github.com/shaoanlu/shaoanlu/blob/a77b8290e3dbe828f53a9414462b375bd8bcc842/assets/readme_photo.png" align="right" height="200" /></a>
 - 🔭 Working as a **Control Engineer**.
 - 🌏 Residing in the vibrant city of **Tokyo, Japan**.
 - ⭐ Interested in everything related to **Control Systems**, **Optimization**, and **Deep Generative Models**.
