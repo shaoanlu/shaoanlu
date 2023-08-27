@@ -1,5 +1,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=shaoanlu&theme=holi-theme)](https://git.io/streak-stats)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shaoanlu&theme=nord&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
