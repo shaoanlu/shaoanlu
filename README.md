@@ -8,7 +8,7 @@
 - 🔭 Working as a **Control Engineer**.
 - 🌏 Grew up in **Taiwan**, residing in the vibrant city of **Tokyo, Japan**.
 - ⭐ Interested in everything related to **Control Systems**, **Optimization**, and **Deep Generative Models**.
-- 🌱 Currently engaged in the study of **Software Architecture in Robotics**.
+- 🌱 Currently engaged in the exploration of **Software Architecture within Robotic Systems**.
 
 
 ### :zap: Recent Activity
