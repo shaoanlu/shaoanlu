@@ -22,6 +22,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shaoanlu&theme=nord&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
+### 🌠 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaoanlu\&rank_icon=github&theme=tokyonight)
+-->
+<!--
 ### 🌠 GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=shaoanlu&theme=holi-theme)](https://git.io/streak-stats)
 -->
