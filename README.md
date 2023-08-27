@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@picofanta-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/picofanta "Find me on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/ShaoAn%20-Lu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shaoan-lu/ "Connect on LinkedIn")
 [![Wordpress Badge](https://img.shields.io/badge/SALu-21759B?style=flat&logo=wordpress&logoColor=white)](shaoanlu.wordpress.com)
-- 🔭 I'm currently working as **Control Engineer**.
+- 🔭 I'm currently working as a **Control Engineer**.
 - 🌏 Located in the vibrant city of **Tokyo, Japan**.
 - ⭐ Interested in everything related to **Control Systems**, **Optimization**, and **Deep Generative Models**.
 - 🌱 Currently engaged in the study of **Software Architecture in Robitcs**.
