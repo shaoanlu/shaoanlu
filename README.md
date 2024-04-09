@@ -23,9 +23,9 @@
 ### Projects
 - Control and Optimization
   - [CBF_QP_safety_filter](https://github.com/shaoanlu/CBF_QP_safety_filter): Demonstrates the use of Control Barrier Functions (CBF) as a safety filter for collision avoidance.
-  - [mppi_cbf](https://github.com/shaoanlu/mppi_cbf): Offers combinations of sampling based Model Predictive Control (MPC) with Control Barrier Functions (CBF) for motion planning, showcased through jupyter notebook.
+  - [mppi_cbf](https://github.com/shaoanlu/mppi_cbf): Offers combinations of sampling based MPC with CBF for motion planning, showcased through jupyter notebook.
 - Deep Learning and Computer Vision
-  - [fewshot-face-translation-GAN](https://github.com/shaoanlu/fewshot-face-translation-GAN): Features Generative Adversarial Networks (GANs) trained on the VGGFace2 dataset for face-translation with few-shot examples.
+  - [fewshot-face-translation-GAN](https://github.com/shaoanlu/fewshot-face-translation-GAN): Features Generative Adversarial Networks trained on the VGGFace2 dataset for face-translation with few-shot examples.
   - [faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN): Utilizes Generative Adversarial Networks for facial swapping in images.
   - [face_toolbox_keras](https://github.com/shaoanlu/face_toolbox_keras): Provides a suite of deep learning models for facial analysis, adapted to the Keras framework.
 
