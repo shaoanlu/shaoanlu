@@ -20,17 +20,14 @@
 5. 💪 Opened PR [#6](https://github.com/shaoanlu/qpsolvers/pull/6) in [shaoanlu/qpsolvers](https://github.com/shaoanlu/qpsolvers)
 <!--END_SECTION:activity-->
 
-### GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=shaoanlu&theme=nord&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!--
-### 🌠 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaoanlu\&rank_icon=github&theme=tokyonight)
--->
-<!--
-### 🌠 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=shaoanlu&theme=holi-theme)](https://git.io/streak-stats)
--->
+### Projects
+- Control and Optimization
+  - [CBF_QP_safety_filter](https://github.com/shaoanlu/CBF_QP_safety_filter): Demonstrates the use of Control Barrier Functions (CBF) as a safety filter for collision avoidance.
+  - [mppi_cbf](https://github.com/shaoanlu/mppi_cbf): Offers combinations of sampling based Model Predictive Control (MPC) with Control Barrier Functions (CBF) for motion planning, showcased through jupyter notebook.
+- Deep Learning and Computer Vision
+  - [fewshot-face-translation-GAN](https://github.com/shaoanlu/fewshot-face-translation-GAN): Features Generative Adversarial Networks (GANs) trained on the VGGFace2 dataset for face-translation with few-shot examples.
+  - [faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN): Utilizes Generative Adversarial Networks for facial swapping in images.
+  - [face_toolbox_keras](https://github.com/shaoanlu/face_toolbox_keras): Provides a suite of deep learning models for facial analysis, adapted to the Keras framework.
 
 <!--
 **shaoanlu/shaoanlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
