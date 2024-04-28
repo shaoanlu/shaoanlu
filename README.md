@@ -22,10 +22,10 @@
 
 ### Projects
 - Control and Optimization
+  - [Diffusion policy for Quadrotor Control](https://github.com/shaoanlu/diffusion_policy_quadrotor): Showcases the application of cutting-edge diffusion models for imitation learning in quadrotor control.
   - [Safety Filter for Collision Avoidance](https://github.com/shaoanlu/CBF_QP_safety_filter): Demonstrates the use of Control Barrier Functions (CBF) as a safety filter for collision avoidance.
   - [Motion Planning with MPPI and CBF](https://github.com/shaoanlu/mppi_cbf): Offers combinations of sampling based MPC with CBF for motion planning, showcased through jupyter notebooks.
-- Deep Learning and Generative Models
-  - [Diffusion policy for Quadrotor Control](https://github.com/shaoanlu/diffusion_policy_quadrotor): Showcases the application of cutting-edge diffusion models for imitation learning in quadrotor control.
+- Deep Learning and Computer Vision
   - [Few-Shot Face Translation](https://github.com/shaoanlu/fewshot-face-translation-GAN): Features Generative Adversarial Networks trained on the VGGFace2 dataset for face-translation with few-shot examples.
   - [Face Swapping GAN](https://github.com/shaoanlu/faceswap-GAN): Utilizes Generative Adversarial Networks for face-swapping in images.
   - [Facial Analysis Toolbox](https://github.com/shaoanlu/face_toolbox_keras): Provides a suite of deep learning models for facial analysis, adapted to the Keras framework.
