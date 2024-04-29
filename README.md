@@ -22,7 +22,7 @@
 
 ### Projects
 - Control and Optimization
-  - [Diffusion policy for Quadrotor Control](https://github.com/shaoanlu/diffusion_policy_quadrotor): Implements advanced diffusion models for imitation learning in quadrotor control.
+  - [Diffusion policy for Quadrotor Control](https://github.com/shaoanlu/diffusion_policy_quadrotor): Implements cutting-edge diffusion models for imitation learning in quadrotor control.
   - [Safety Filter for Collision Avoidance](https://github.com/shaoanlu/CBF_QP_safety_filter): Employs Control Barrier Functions (CBF) as safety filters for collision avoidance.
   - [Motion Planning with MPPI](https://github.com/shaoanlu/mppi_cbf): Integrates Model Predictive Control and CBF in a sampling-based approach for motion planning.
 - Deep Learning and Computer Vision
