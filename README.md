@@ -5,10 +5,10 @@
 [![Wordpress Badge](https://img.shields.io/badge/SALu-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://shaoanlu.wordpress.com/)
 <!-- [![Github](https://img.shields.io/github/followers/shaoanlu?label=Follower&style=social)](https://github.com/shaoanlu) -->
 
-- 🔭 Working as a **Control Software Engineer**.
-- 🌏 Grew up in **Taiwan**, residing in the vibrant city of **Tokyo, Japan**.
-- ⭐ Interested in **Control Systems**, **Optimization**, and **Deep Generative Models**.
-- 🌱 Currently engaged in the exploration of **Software Architecture within Robotic Systems**.
+- Working as a **Control Software Engineer**.
+- Grew up in **Taiwan**, residing in the vibrant city of **Tokyo, Japan**.
+- Interested in **Control Systems**, **Optimization**, and **Deep Generative Models**.
+- Currently engaged in the exploration of **Software Architecture within Robotic Systems**.
 
 
 ### Recent Activity
