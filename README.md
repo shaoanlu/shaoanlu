@@ -13,8 +13,8 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#494](https://github.com/upkie/upkie/pull/494) in [upkie/upkie](https://github.com/upkie/upkie)
-2. 💪 Opened PR [#2](https://github.com/TrajectoryCrafter/TrajectoryCrafter/pull/2) in [TrajectoryCrafter/TrajectoryCrafter](https://github.com/TrajectoryCrafter/TrajectoryCrafter)
+1. 🎉 Merged PR [#1](https://github.com/shaoanlu/summarize_as_markdown/pull/1) in [shaoanlu/summarize_as_markdown](https://github.com/shaoanlu/summarize_as_markdown)
+2. 🎉 Merged PR [#1](https://github.com/shaoanlu/summarize_as_markdown/pull/1) in [shaoanlu/summarize_as_markdown](https://github.com/shaoanlu/summarize_as_markdown)
 3. 💪 Opened PR [#234](https://github.com/qpsolvers/qpsolvers/pull/234) in [qpsolvers/qpsolvers](https://github.com/qpsolvers/qpsolvers)
 4. 🎉 Merged PR [#6](https://github.com/shaoanlu/qpsolvers/pull/6) in [shaoanlu/qpsolvers](https://github.com/shaoanlu/qpsolvers)
 5. 💪 Opened PR [#6](https://github.com/shaoanlu/qpsolvers/pull/6) in [shaoanlu/qpsolvers](https://github.com/shaoanlu/qpsolvers)
