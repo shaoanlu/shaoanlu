@@ -13,9 +13,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/shaoanlu/summarize_as_markdown/pull/5) in [shaoanlu/summarize_as_markdown](https://github.com/shaoanlu/summarize_as_markdown)
-2. 🎉 Merged PR [#5](https://github.com/shaoanlu/summarize_as_markdown/pull/5) in [shaoanlu/summarize_as_markdown](https://github.com/shaoanlu/summarize_as_markdown)
-3. 🎉 Merged PR [#3](https://github.com/shaoanlu/summarize_as_markdown/pull/3) in [shaoanlu/summarize_as_markdown](https://github.com/shaoanlu/summarize_as_markdown)
+1. 🗣 Commented on [#6](https://github.com/shaoanlu/summarize_as_markdown/pull/6#issuecomment-3116625442) in [shaoanlu/summarize_as_markdown](https://github.com/shaoanlu/summarize_as_markdown)
+2. ❌ Closed PR [#6](https://github.com/shaoanlu/summarize_as_markdown/pull/6) in [shaoanlu/summarize_as_markdown](https://github.com/shaoanlu/summarize_as_markdown)
+3. 💪 Opened PR [#6](https://github.com/shaoanlu/summarize_as_markdown/pull/6) in [shaoanlu/summarize_as_markdown](https://github.com/shaoanlu/summarize_as_markdown)
 4. 🎉 Merged PR [#4](https://github.com/shaoanlu/summarize_as_markdown/pull/4) in [shaoanlu/summarize_as_markdown](https://github.com/shaoanlu/summarize_as_markdown)
 5. 🎉 Merged PR [#4](https://github.com/shaoanlu/summarize_as_markdown/pull/4) in [shaoanlu/summarize_as_markdown](https://github.com/shaoanlu/summarize_as_markdown)
 <!--END_SECTION:activity-->
