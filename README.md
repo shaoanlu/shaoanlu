@@ -13,11 +13,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shaoanlu/PiMPC-python/pull/1) in [shaoanlu/PiMPC-python](https://github.com/shaoanlu/PiMPC-python)
-2. 💪 Opened PR [#1](https://github.com/shaoanlu/PiMPC-python/pull/1) in [shaoanlu/PiMPC-python](https://github.com/shaoanlu/PiMPC-python)
-3. ❌ Closed PR [#2](https://github.com/SOLARIS-JHU/PiMPC.jl/pull/2) in [SOLARIS-JHU/PiMPC.jl](https://github.com/SOLARIS-JHU/PiMPC.jl)
-4. 💪 Opened PR [#2](https://github.com/SOLARIS-JHU/PiMPC.jl/pull/2) in [SOLARIS-JHU/PiMPC.jl](https://github.com/SOLARIS-JHU/PiMPC.jl)
-5. 🎉 Merged PR [#4](https://github.com/shaoanlu/summarize_as_markdown/pull/4) in [shaoanlu/summarize_as_markdown](https://github.com/shaoanlu/summarize_as_markdown)
+1. 💪 Opened PR [#36](https://github.com/MIT-SPARK/VGGT-SLAM/pull/36) in [MIT-SPARK/VGGT-SLAM](https://github.com/MIT-SPARK/VGGT-SLAM)
+2. 🎉 Merged PR [#1](https://github.com/shaoanlu/PiMPC-python/pull/1) in [shaoanlu/PiMPC-python](https://github.com/shaoanlu/PiMPC-python)
+3. 💪 Opened PR [#1](https://github.com/shaoanlu/PiMPC-python/pull/1) in [shaoanlu/PiMPC-python](https://github.com/shaoanlu/PiMPC-python)
+4. ❌ Closed PR [#2](https://github.com/SOLARIS-JHU/PiMPC.jl/pull/2) in [SOLARIS-JHU/PiMPC.jl](https://github.com/SOLARIS-JHU/PiMPC.jl)
+5. 💪 Opened PR [#2](https://github.com/SOLARIS-JHU/PiMPC.jl/pull/2) in [SOLARIS-JHU/PiMPC.jl](https://github.com/SOLARIS-JHU/PiMPC.jl)
 <!--END_SECTION:activity-->
 
 ### Projects
